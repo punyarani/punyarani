@@ -20,6 +20,4 @@ Machine Learning: TensorFlow, scikit-learn
 Data Manipulation: Pandas, NumPy
 Visualization: Matplotlib, Seaborn
 
-#### 📫 Connect with me 
-• [LinkedIn](https://www.linkedin.com/in/ramadhanialifa/)
-Feel free to explore my repositories and projects. Don't hesitate to connect or reach out! 🚀
+Feel free to explore my repositories and projects. Don't hesitate to connect or reach out me on [LinkedIn](https://www.linkedin.com/in/ramadhanialifa/)! 🚀
