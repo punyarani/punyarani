@@ -2,11 +2,8 @@
 <h3 align="center">a devoted Data Storyteller with a flair for turning data into captivating stories</h3>
 
 • Extracting information from databases through SQL queries.
-
 • Creating reports and conducting ad-hoc data analysis with SQL
-
 • Building interactive dashboards using Tableau and Looker Studio
-
 • Analyzing and reporting data utilizing Google Sheets and Excel.
 
 #### 📚 Projects
