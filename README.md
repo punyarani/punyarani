@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">a devoted Data Storyteller with a flair for turning data into captivating stories</h3>
 
@@ -8,7 +6,9 @@
     - Building interactive dashboards using Tableau and Looker Studio,
     - Analyzing and reporting data utilizing Google Sheets and Excel.
 
-- 📫 How to reach me **ramadhanialifa@gmail.com**
+# - 📫 How to reach me **ramadhanialifa@gmail.com**
+# - 📚 Projects
+Welcome to my portfolio, where I showcase my projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
