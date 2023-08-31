@@ -2,19 +2,24 @@
 <h3 align="center">a devoted Data Storyteller with a flair for turning data into captivating stories</h3>
 
     - Extracting information from databases through SQL queries.
-    - Creating reports and conducting on-the-fly data analysis with SQL
+    - Creating reports and conducting ad-hoc data analysis with SQL
     - Building interactive dashboards using Tableau and Looker Studio,
     - Analyzing and reporting data utilizing Google Sheets and Excel.
 
+## 📚 Projects
+Welcome to my portfolio, where I showcase my [projects](https://github.com/punyarani/portfolio/blob/main/README.md).
 
-📚 Projects
-Welcome to my portfolio, where I showcase my projects.
+## 🛠 Tools
+• Language : Python, C++, Pascal
+• Database : MySQL
+• Visualization: Tableau, Looker Studio
+• Others : Embarcadero Delphi, Arduino, MikroC PRO for ARM 
 
-📫 How to reach me **ramadhanialifa@gmail.com**
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramadhanialifa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramadhanialifa" height="30" width="40" /></a>
-</p>
+## 🧱 Framework
+Machine Learning: TensorFlow, scikit-learn
+Data Manipulation: Pandas, NumPy
+Visualization: Matplotlib, Seaborn
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📫 Connect with me 
+• [LinkedIn](https://www.linkedin.com/in/ramadhanialifa/)
+Feel free to explore my repositories and projects. Don't hesitate to connect or reach out! 🚀
